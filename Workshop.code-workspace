@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../โฟลเดอร์ใหม่"
+		},
+		{
+			"name": "esp32-agri",
+			"path": "../Argrinovator Team Project/micropython/esp32-agri"
+		},
+		{
+			"name": "serial:/COM4",
+			"uri": "serial://com4/"
+		}
+	],
+	"settings": {}
+}
